@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://delanohendrix.github.io/Huddle-Landing-Page-with-Single-Introductory-Section/)
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/huddle-landing-page-using-flexbox-and-css-grid-_Wkg-CohIK)
+- Live Site URL: [Github Pages](https://delanohendrix.github.io/Huddle-Landing-Page-with-Single-Introductory-Section/)
 
 ## My process
 
